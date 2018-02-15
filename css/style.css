@@ -1,6 +1,6 @@
 section {
     padding: 20px;
-    margin: 20px;
+    margin: 10px;
 }
 
 body {
@@ -35,7 +35,7 @@ body {
     height: 50px;
     width: 100%;
     font-weight: bold;
-    margin: 200px;
+    margin: 145px;
 }
 
 .article {
@@ -73,6 +73,8 @@ h1 {
     background-color: green;
 }
 
+
+/*
 .sidenav {
     display: inline-block;
     top: 0px;
@@ -85,13 +87,14 @@ h1 {
     border: white solid 3px;
     text-align: center;
 }
+*/
 
 .main-content {
     color: white;
     border: white solid 3px;
     font-family: Georgia;
-    padding: 30px 30px 30px 30px;
-    margin: 0px 300px 0px 0px;
+    padding: 30px 30px 10px 30px;
+    margin: 0px 0px 0px 0px;
 }
 
 .writer-img {
